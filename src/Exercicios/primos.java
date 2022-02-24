@@ -1,7 +1,5 @@
 package Exercicios;
 
-import java.util.ArrayList;
-import java.util.List;
 
 public class primos {
 
